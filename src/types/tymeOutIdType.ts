@@ -1,0 +1,1 @@
+export type tymeOutIdType = number | null;
